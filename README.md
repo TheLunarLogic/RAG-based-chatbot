@@ -102,3 +102,6 @@ The app will open at `http://localhost:8501`.
 - Voice recording uses `sounddevice` which records from the **local machine's microphone**. This works when running Streamlit on localhost.
 - The `DEEPGRAM_API_KEY` is optional — text chat works without it, only voice features require it.
 - Conversation history is persisted in `chatbot.db` (SQLite). Delete this file to reset all threads.
+
+## Demo :
+https://drive.google.com/file/d/1Y6R9vNbltiY6vgghxBhZjbD5UhH2IVnv/view?usp=sharing
