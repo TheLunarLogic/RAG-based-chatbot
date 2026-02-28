@@ -1,0 +1,33 @@
+# Core
+streamlit==1.54.0
+python-dotenv==1.0.1
+
+# LLM
+langchain==0.3.14
+langchain-core==1.2.16
+langchain-community==0.3.14
+langchain-groq==1.1.2
+langchain-text-splitters==0.3.3
+groq==0.37.1
+
+# Embeddings
+sentence-transformers==3.3.1
+
+# Vector store
+faiss-cpu==1.13.2
+
+# RAG
+pypdf==5.1.0
+
+# LangGraph
+langgraph==0.3.3
+langgraph-checkpoint==4.0.1
+langgraph-checkpoint-sqlite==3.0.3
+langgraph-prebuilt==1.0.8
+langgraph-sdk==0.3.9
+
+# Voice
+sounddevice==0.5.5
+soundfile==0.13.1
+numpy==1.26.4
+requests==2.32.3
